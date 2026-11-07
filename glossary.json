@@ -1,0 +1,17 @@
+{
+  "_comment": "ASR correction glossary. Edit 'replace' to fix names and terms that Whisper mis-hears. Keys are wrong strings, values are the correct ones.",
+  "replace": {
+    "田竄": "田端",
+    "田竐": "田端",
+    "田窜": "田端",
+    "新闻公作者": "新闻工作者",
+    "新闻公作": "新闻工作",
+    "纯粗的": "纯粹的",
+    "林子": "玲子",
+    "高志": "高智",
+    "西格队": "XIG队",
+    "一位追求": "一味追求",
+    "收视律师": "收视率",
+    "对于同事们来说。": "对于同事们来说，"
+  }
+}
