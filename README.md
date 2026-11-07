@@ -1,5 +1,7 @@
 # Bilibili Video to Text
 
+English | [简体中文](README.zh-CN.md)
+
 Turn any segment of a Bilibili video into a clean transcript, then render it as a
 self-contained, readable HTML page. The tool first looks for official or AI subtitle
 tracks; when none are available it downloads only the requested audio range and runs
